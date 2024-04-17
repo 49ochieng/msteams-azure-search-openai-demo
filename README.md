@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo is read-only and is not being actively maintained or updated. You can find the latest sample in the [Microsoft Adoption Samples Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-teams-sample-bot-azure-search-openai-ts/).
+
 # ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search in Microsoft Teams
 
 This sample app demonstrates how to use a Microsoft Teams bot to chat with your data using natural language in the flow of work.
